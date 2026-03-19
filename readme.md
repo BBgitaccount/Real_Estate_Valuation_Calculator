@@ -1,5 +1,7 @@
 # 🏠 Real Estate Valuation & Opportunity Cost Calculator
 
+![photo.png](photo.png)
+
 A Python command-line tool that evaluates whether a real estate investment is financially rational by comparing its **inflation-adjusted real value** against its asking price and the opportunity cost of an alternative bank investment.
 
 ---
